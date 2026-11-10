@@ -6,6 +6,7 @@ I'm a mechanical engineering student at Virginia Tech.
 ## Projects
 | Project | What it does | Status |
 |---|---|---|
+|00 First tool | Gear ratio calculator | Done|
 | 01 Image classifier | Classifies images of ... | Planned |
 | 02 API basics | First calls to an LLM API | Planned |
 
