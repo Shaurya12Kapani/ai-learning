@@ -1,0 +1,6 @@
+# Gear ratio calculator
+
+Takes gear teeth, input speed and input torque, and prints the gear ratio,
+output speed and output torque. Assumes ideal gearing (no friction losses).
+
+Run: python gear_ratio.py
