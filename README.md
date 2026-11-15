@@ -8,7 +8,7 @@ I'm a mechanical engineering student at Virginia Tech.
 |---|---|---|
 |00 First tool | Gear ratio calculator | Done|
 | 01 Image classifier | Classifies images of ... | Planned |
-| 02 API basics | First calls to an LLM API | Planned |
+| 02 API basics | First calls to an LLM API | Done |
 
 ## Tools
 Python, pandas, scikit-learn, PyTorch, Anthropic API
