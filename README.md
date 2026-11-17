@@ -6,9 +6,9 @@ I'm a mechanical engineering student at Virginia Tech.
 ## Projects
 | Project | What it does | Status |
 |---|---|---|
-|00 First tool | Gear ratio calculator | Done|
+| 00 First tool | Gear ratio calculator for speed and torque | Done |
 | 01 Image classifier | Classifies images of ... | Planned |
-| 02 API basics | First calls to an LLM API | Done |
+| 02 API basics | First API call and structured JSON output | Done |
 
 ## Tools
 Python, pandas, scikit-learn, PyTorch, Anthropic API
